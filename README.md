@@ -1,82 +1,52 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi, I'm Bashar Mistareehi 👋
 
-<p align="center">
-<a href="https://linkedin.com/in/bashar-mistareehi" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
-</a>&nbsp;
-<a href="mailto:basharmistareehi03@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" />
-</a>
-</p>
+**.NET Backend Developer** — ASP.NET Core · C# · SQL Server
 
-![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-
----
-
-### 👨‍💻 About Me:
-
-- 🎓 I'm **Bashar Mistareehi**, a **Fresh Graduate (Computer Science)**
-- 💻 Passionate about **.NET Development & Software Engineering**
-- 🧠 Strong in: **Problem Solving, OOP, Data Structures, System Design**
-- 🏗️ Experienced in building:
-  - Desktop Applications (Windows Forms)
-  - Web Applications (ASP.NET Core MVC)
-- 🗄️ Good knowledge in **Database Design & SQL Server**
-- 🔄 I worked with:
-  - **ADO.NET**
-  - **Entity Framework Core**
-- 🚀 Currently improving my skills in **ASP.NET Core & Clean Architecture**
-- 📫 Reach me at: **bmestarehy200@gmail.com**
-
----
-
-### 🧑‍💻 Tech Stack:
-
-<p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,sqlserver,git,github" />
-      </a>
+<p>
+  <a href="https://linkedin.com/in/bashar-mistareehi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bmestarehy200@gmail.com"><img src="https://img.shields.io/badge/Email-bmestarehy200%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 🛠️ What I Work With:
+### About me
 
-- 💻 **C# & .NET Framework / .NET Core**
-- 🌐 **ASP.NET Core MVC**
-- 🗄️ **SQL Server**
-- 🔗 **ADO.NET**
-- ⚡ **Entity Framework Core**
-- 🎨 **HTML, CSS, JavaScript**
-- 🧱 **OOP & Data Structures**
-- 🔄 **SDLC & System Architecture Basics**
+- 💼 Working as a **.NET Developer** on a production **HR & attendance management system** (ASP.NET Core, SQL Server, stored procedures).
+- 🔐 Recent work there: per-user **API rate limiting**, **API audit logging** with a reporting screen, **login CAPTCHA**, **report-level permissions**, encrypted entity IDs, and an ongoing **SSO (OAuth 2.0 / OpenID Connect)** integration.
+- 🎓 B.Sc. in **Computer Science**.
+- 🌱 Currently focused on clean layered architecture, automated testing, and API security.
 
 ---
 
-### 📊 GitHub Stats:
+### Tech stack
 
-![Bashar's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,bootstrap,git,github&perline=10" alt="Tech stack" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
-
----
-
-### 🚀 Goals:
-
-- Become a **Professional .NET Backend Developer**
-- Work on **real-world scalable systems**
-- Contribute to **open source projects**
-- Master **System Design & Architecture**
-
----
-
-### ⚡ Fun Fact:
-
-- I enjoy solving coding problems and improving my logical thinking 🧠
-- Always learning something new in tech 🚀
+| Area | Tools |
+|---|---|
+| Backend | C#, ASP.NET Core Web API & MVC, .NET 8/9 |
+| Data | SQL Server, T-SQL, stored procedures, ADO.NET, Entity Framework Core |
+| Security | JWT + refresh tokens, cookie auth, claims & policy-based authorization, rate limiting |
+| Practices | Layered architecture, repository pattern, dependency injection, DTOs + AutoMapper, xUnit |
+| Tooling | Git, GitHub, Visual Studio, Swagger, IIS |
 
 ---
 
-### 😂 A Bit of Humor:
+### Featured projects
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+| Project | What it shows |
+|---|---|
+| [**StudentManagement**](https://github.com/bashar-mistareehi/StudentManagement) | Layered Web API + MVC client: ADO.NET & stored procedures, JWT with refresh tokens, policy-based authorization, rate limiting, audit logging |
+| [**BookStore**](https://github.com/bashar-mistareehi/BookStore) | ASP.NET Core MVC store with EF Core: catalog, cart, orders, user profiles, admin dashboard |
+| [**LearnSpace**](https://github.com/bashar-mistareehi/LearnSpace) | Online learning platform (MVC + EF Core) with an Admin area, roles, courses and enrollments |
+
+---
+
+### GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bashar-mistareehi&show_icons=true&hide_border=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashar-mistareehi&layout=compact&hide_border=true" alt="Top languages" height="160" />
+</p>
