@@ -41,12 +41,3 @@
 | [**StudentManagement**](https://github.com/bashar-mistareehi/StudentManagement) | Layered Web API + MVC client: ADO.NET & stored procedures, JWT with refresh tokens, policy-based authorization, rate limiting, audit logging |
 | [**BookStore**](https://github.com/bashar-mistareehi/BookStore) | ASP.NET Core MVC store with EF Core: catalog, cart, orders, user profiles, admin dashboard |
 | [**LearnSpace**](https://github.com/bashar-mistareehi/LearnSpace) | Online learning platform (MVC + EF Core) with an Admin area, roles, courses and enrollments |
-
----
-
-### GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bashar-mistareehi&show_icons=true&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashar-mistareehi&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
